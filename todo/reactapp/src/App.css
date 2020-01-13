@@ -1,0 +1,26 @@
+body{
+  background-color: #282c34;
+}
+
+
+.center-column{
+    width:600px;
+    margin: 20px auto;
+    padding:20px;
+    background-color: #fff;
+    border-radius: 3px;
+    box-shadow: 6px 2px 30px 0px rgba(0,0,0,0.75);
+  }
+
+.item-row{
+    background-color: #11a5c0;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 900px;
+    box-shadow: 0px -1px 10px -4px rgba(0,0,0,0.75);
+  }
+
+
